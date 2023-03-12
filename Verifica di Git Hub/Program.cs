@@ -10,6 +10,7 @@ namespace Verifica_di_Git_Hub
     {
         static void Main(string[] args)
         {
+            // metodi e funzionalita richieste dall'esercizio che non ho voglia di scrivere
 
         }
     }
